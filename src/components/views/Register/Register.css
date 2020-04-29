@@ -1,0 +1,29 @@
+*{
+    margin: 0
+}
+body{
+    font-family: "Open Sans", sans-serif;
+    top: 0;
+    left: 0;
+    background: 
+    linear-gradient(
+        rgba(0, 0, 0, 0.45), 
+        rgba(0, 0, 0, 0.45)
+      ),
+    url("https://i.imgur.com/9MDiW6B.jpg") 70% fixed;
+  background-size: cover;
+}
+
+.box{
+    color:#26a69a;
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+    justify-content: center;
+    width: 40%;
+    height: 600px;
+    padding: 100px;
+    background: #ffffff;
+    margin-left: 30%;
+    margin-top: 5%;
+}

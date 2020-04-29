@@ -18,3 +18,5 @@
 
 ## Demo: 
 ![demo](public/recipe-demo.gif)
+
+<p>Some notes: login feature uses bcrypt, JWT, concurrency, redux </p>
