@@ -1,33 +1,7 @@
-*{
-  margin-left: 15px;
+* {
+  margin-left: 0;
 }
-h1{
-  color:#26a69a
+h1 {
+  padding-top: 10px;
+  color: #ffff;
 }
-.inputs{
-  margin-left: 400px;
-}
-.recipe-input{
-  width: 50%;
-}
-.button-input{
-  margin-top: 30px
-}
-.card{
-  display: inline-block;
-  margin: 2px 100px 60px 2px;
-  text-align: center;
-  width: 25%;
-  height: 460px; 
-}
-.card-image{
-  display: block;
-  margin-left: -15px;
-
-  width: 105%;
-  height: 250px;
-}
-.card-reveal{
-  text-align: left;
-}
-

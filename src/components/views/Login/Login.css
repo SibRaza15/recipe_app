@@ -1,5 +1,4 @@
-
-.wrap{
+body {
     font-family: "Open Sans", sans-serif;
     top: 0;
     left:0;
@@ -10,6 +9,7 @@
       ),
     url("https://i.imgur.com/9MDiW6B.jpg") 70% fixed;
   background-size: cover;
+  background-color: rgba(0,0,0,0.5);
 }
 
 .wrap{
