@@ -17,7 +17,7 @@
     "formik": "^2.1.4",
     "http-proxy-middleware": "^1.0.3",
     "materialize-css": "^1.0.0-rc.2",
-    "mongoose": "^5.4.20",
+    "mongoose": "^5.7.5",
     "nodemon": "^2.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
